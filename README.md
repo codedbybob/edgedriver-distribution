@@ -6,10 +6,9 @@ Private EdgeDriver hosting for WebAutomation Solutions automation scripts.
 
 ## 📌 Notes
 
-- This repo serves as a fallback for delivering EdgeDriver in case Selenium Manager or WebDriver Manager fails.
 - Microsoft’s previous domain for delivering EdgeDriver binaries was retired (`msedgedriver.azureedge.net`).
 - WebDriver Manager has not been functional for Edge since the 15th of July due to this deprecation .
-- This approach avoids dependency on unstable upstream links.
+- This repo serves as a hosting platform for the EdgeDriver, which avoids dependency on unstable upstream links.
 
 ---
 
